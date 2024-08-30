@@ -1,0 +1,7 @@
+PowerShell을 관리자 권한으로 실행 시킨다
+그리고 다음 명령어를 실행 합니다.
+$ wsl --install (설치)
+$ wsl --set-default-version 2 (버전 2)
+마이크로소프트 스토어에서 우분투 설치
+Ubuntu 20.04 LTS 설치
+
